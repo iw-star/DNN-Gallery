@@ -1,0 +1,23 @@
+﻿<h3>IWStarGallery</h3>
+<p class="Contributor">
+	IW Star <br />
+	<a href="mailto:gavin@iwstar.com">gavin@iwstar.com</a><br />
+	<a href=http://www.iwstar.com/>http://www.iwstar.com/</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>About the IWStarGallery</h3>
+	<p class="Owner">
+		<b>Version CHANGEME</b><br /><br />
+	</p>
+	<p>Description about version.</p>
+	
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+	</ul>
+	
+</div>
